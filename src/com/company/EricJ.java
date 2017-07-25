@@ -2,8 +2,8 @@ package com.company;
 
 public class EricJ {
 
-    String ericsDescription ;
-
+    private String ericsDescription ;
+    private String ericsNewestFeature;
 
     public EricJ(String ericsDescription) {
         this.ericsDescription = ericsDescription;
