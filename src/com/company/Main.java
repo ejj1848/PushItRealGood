@@ -11,6 +11,8 @@ public class Main {
         ////sdfsdaf
 
         //LOGAN R MOEN
+        //best commment
+        // this one too
         EricJ ericJ = new EricJ("Eric is the kewlest");
         System.out.println(ericJ.getEricsDescription());
 
