@@ -6,5 +6,7 @@ public class Main {
 
         EricJ ericJ = new EricJ("Eric is the kewlest");
         System.out.println(ericJ.getEricsDescription());
+
+        // comment to show new commit
     }
 }
