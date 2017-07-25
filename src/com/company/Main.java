@@ -6,7 +6,7 @@ public class Main {
 
         // Joshua McCann
 
-        //Eric Braun
+        //Eric Braun 1
         EricJ ericJ = new EricJ("Eric is the kewlest");
         System.out.println(ericJ.getEricsDescription());
 
