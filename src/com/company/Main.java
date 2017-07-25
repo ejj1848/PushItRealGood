@@ -13,6 +13,8 @@ public class Main {
         //LOGAN R MOEN
         //best commment
         // this one too
+        //sdfsdfsadfsdf
+        //asdfsdfsdfs
         EricJ ericJ = new EricJ("Eric is the kewlest");
         System.out.println(ericJ.getEricsDescription());
 
