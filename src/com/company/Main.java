@@ -15,6 +15,8 @@ public class Main {
         // this one too
         //sdfsdfsadfsdf
         //asdfsdfsdfs
+        //Bestter message
+        //this is the besterer message
         EricJ ericJ = new EricJ("Eric is the kewlest");
         System.out.println(ericJ.getEricsDescription());
 
